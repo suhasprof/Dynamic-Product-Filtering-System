@@ -1,0 +1,4 @@
+!-------- FILTERING THE ITEMS IN THE PAGE ------------
+# TECHNOLOGIES USED : 
+# REACT JS
+# HTML
